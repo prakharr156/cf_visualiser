@@ -43,7 +43,7 @@ export default function App() {
           />
         )}
         <div className="text-sm text-center mt-10 pb-5 font-semibold">
-          Copyright © 2024 by Satyam Gupta <br /> All right reserved. <br />
+          Copyright © 2024 by Prakhar Sharma <br /> All right reserved. <br />
           Made in ❤️ with code
         </div>
       </div>
