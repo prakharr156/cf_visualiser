@@ -11,10 +11,10 @@ const Navbar = () => {
           <h1 className=" text-yellow-600 text-center">Codeforces</h1>
         </span>
         <span>
-          <h1 className=" text-blue-600 text-center max-[300px]:hidden">Profile</h1>
+          <h1 className=" text-red-600 text-center max-[300px]:hidden">Profile</h1>
         </span>
         <span>
-          <h1 className=" text-red-600 text-center">Visualizer</h1>
+          <h1 className=" text-blue-600 text-center">Visualizer</h1>
         </span>
       </motion.div>
     </div>
